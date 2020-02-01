@@ -1,8 +1,8 @@
 {
   "name": "vue-calendar-l",
-  "version": "1.0.0",
-  "description": "vue日历组件",
-  "main": "dist/index.js",
+  "version": "1.0.4",
+  "description": "vue日历插件",
+  "main": "dist/calendar.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot --inline",
@@ -10,19 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harrietjia/vue-calendar-L.git"
+    "url": "git+https://github.com/harrietjia/vue-calendar-l.git"
   },
   "keywords": [
     "vue",
-    "calendar"
+    "calendar",
+    "vue-calendar-l"
   ],
   "author": "harrietjia",
   "Email": "1317499207@qq.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harrietjia/vue-calendar-L/issues"
+    "url": "https://github.com/harrietjia/vue-calendar-l/issues"
   },
-  "homepage": "https://github.com/harrietjia/vue-calendar-L#readme",
+  "homepage": "https://github.com/harrietjia/vue-calendar-l#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

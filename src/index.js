@@ -1,2 +1,2 @@
-import Calendar from './App.vue'
-export default Calendar;
+import lCalendar from './App.vue'
+export default lCalendar;
