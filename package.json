@@ -1,6 +1,6 @@
 {
   "name": "vue-calendar-l",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "vue日历插件",
   "main": "dist/calendar.min.js",
   "scripts": {
