@@ -8,7 +8,7 @@ monthChanged  （滑动移动月份）
 
 传入参数：
 | options  | type |  example | describe   |
-|-------|:---:|-----------|-------:|
+| -------- | ---- | -------- | ---------- |
 | options  | Object | { header_bg_color: "#ffffff", //头部颜色
         header_font_color: "#ffa300",//头部字体颜色
         week_font_color: "#333333", //星期字体颜色
