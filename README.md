@@ -35,7 +35,7 @@ npm包  npm install vue-calendar-l
 
 import Calendar from "vue-calendar-l";
 
-components: { cTitle, cCalendar }
+components: { Calendar }
 
 例子：
 
