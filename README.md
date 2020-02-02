@@ -89,8 +89,7 @@ import Calendar from "vue-calendar-l";
 components: { cTitle, cCalendar }
 
 例子：
-
-![code] (https://img-blog.csdnimg.cn/20200202111848163.png)
+![图片说明](https://img-blog.csdnimg.cn/20200202111848163.png)
 
 效果：
-![code] (https://img-blog.csdnimg.cn/20200201155857217.gif)
+![图片说明](https://img-blog.csdnimg.cn/20200201155857217.gif)
